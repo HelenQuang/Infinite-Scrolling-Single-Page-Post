@@ -1,6 +1,6 @@
-## Infinite Scrolling One-Page Bligpost & Filter Search (Small Learning Project)
+## Infinite Scrolling Single-Page Post & Filter Search (Small Learning Project)
 
-Display blog posts from [jsonplaceholder](https://jsonplaceholder.typicode.com) and add infinite scroll to fetch posts and also add filter box
+Display posts about jokes from [DadJokes](https://us-central1-dadsofunny.cloudfunctions.net/DadJokes) and add infinite scroll to fetch posts and also add filter box
 
 ## Project Specifications
 
